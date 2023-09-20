@@ -4,7 +4,7 @@ Welcome!
 
 I am Shreya Maliwal, the author of this project. 
 
-This is a bookdown file written for the MSc Data Science and Statistics dissertation at the University of Bath. The topic of the dissertation is 'Statistical Modelling of Environmental Extremes'. 
+This is an R Markdown file consisting of extreme value data analysis for the MSc Data Science and Statistics dissertation at the University of Bath. The topic of the dissertation is 'Statistical Modelling of Environmental Extremes'. 
 
 The project focuses on using the Generalised Pareto Distribution models with the `ismev` package in R software.
 
