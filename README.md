@@ -13,7 +13,7 @@ This dissertation paper was written between June and September 2023 and submitte
 This dissertation may be made available for consultation within the University Library and may be photocopied or lent to other libraries for the purposes of consultation.
 
 
-All the necessary code for the results illustrated in the paper can be found in this repository on [Github](https://github.com/sm2203)
+All the necessary code for the results illustrated in the paper can be found in this repository.
 
 Contact Information:
 Shreya Maliwal, 
